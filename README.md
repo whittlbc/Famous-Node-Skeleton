@@ -27,7 +27,7 @@ Change the node and npm versions to whatever you are currently running on your o
 
 Now go into the root directory of the app in the terminal and run "sudo npm install"
  
-Wait for all of your dependencies to install. 
+Wait for all of your dependencies to install. They will be placed inside of a new folder automatically created for you, called "node_modules".
  
 After that, congrats! You have the app ready to run. Very simple. 
 
