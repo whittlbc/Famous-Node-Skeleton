@@ -1,0 +1,17 @@
+html {
+    background-color: #fff;
+    color: #000;
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+	-khtml-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+
+}
+
+.double-sided {
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+}
