@@ -11,8 +11,8 @@
     "debug": "~2.0.0",
     "jade": "~1.6.0",
     "ejs": "*",
-    "mongodb": "*",
-    "mongoskin": "*"
+    "mongodb": "1.4",
+    "mongoskin": "1.4.13"
   },
   "engines": {
     "node": "0.10.32",
